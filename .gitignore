@@ -2,3 +2,6 @@ fastapi-env
 blog-env
 DS_Store
 __*
+.db
+your_database.db
+gitignore
